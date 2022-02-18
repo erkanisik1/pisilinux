@@ -1,0 +1,123 @@
+body{
+	#-webkit-filter: grayscale(100%);
+	#filter: grayscale(100%);
+  animation: fadein 1s;
+}
+
+@keyframes fadein {
+	from { opacity: 0; }
+    to   { opacity: 1; }
+}
+ $("p img").addClass("img-fluid");
+#username{font-size: 12px;font-weight: bold;}
+#authority{font-size: 10px;}
+.avatar{height: 3rem !important;width: 3rem !important;}
+/* sosyal pagination*/
+.pagination {display: inline-block;border-radius: 5px;margin:5px;width:10px; }
+.pagination a {color: black;float: left;padding: 8px 16px;text-decoration: none;} 
+.pagination a.active {background-color: #9E0841;color: #ccc;border-radius: 5px; }
+.pagination a:hover:not(.active) {background-color: #ddd;}
+/* /sosyal pagination*/
+/* İletiler CSS */
+.ileti thead tr{background: #9E0841;}
+.ileti thead th{color: #fff; font-weight: bold;}
+/* /İletiler CSS */
+.nav1{padding: 0 .10rem !important;}
+.bilgi td{padding: 0 !important;color:#8c8c8c;}
+
+/* sayac css*/
+.sayac{color:#8c8c8c;width: 150px;font-size: 14px;}
+.sayac dt{width:100px; float: left;font-weight: normal !important; font-size: 16px;}
+
+.sayac dd {
+  margin-bottom: .0rem !important;
+  margin-left: 0;
+}
+
+.slider1{
+	background: #4c4c4c; /* Old browsers */
+background: -moz-linear-gradient(top,  #4c4c4c 0%, #5e5e5e 50%, #383735 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #4c4c4c 0%,#5e5e5e 50%,#383735 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #4c4c4c 0%,#5e5e5e 50%,#383735 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#383735',GradientType=0 ); /* IE6-9 */
+border-bottom: 1px solid rgba(0,40,100,.12);
+}
+
+.imgup{
+  position:fixed;
+  bottom:30px;
+  right:20px;
+  cursor:pointer;
+  display:none;
+  width: 65px;
+  z-index: 100;
+}
+
+.altforum {
+    border: 1px solid #c6e1ff;
+    padding: 2px;
+  }
+
+  .altforum:hover {
+    border: 1px solid #c6e1ff;
+    padding: 2px;
+    background: #a6d0ff;
+    color: #000;
+  }
+
+  .card-title p {
+    font-size: 0.8em;
+  }
+
+   .ara::placeholder { /* Firefox, Chrome, Opera */ 
+    color: #e23a81 !important; 
+    opacity: 1 !important;
+  } 
+  .has-search .form-control {padding-left: 2.375rem;}
+  .has-search .form-control-feedback {position: absolute;z-index: 2;display: block;width: 2.375rem;height: 2.375rem;line-height: 2.375rem;text-align: center; pointer-events: none;color: #aaa;}
+
+  .top-header{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,f3f3f3+50,ededed+51,ffffff+100;White+Gloss+%232 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+    border-bottom: 1px solid rgba(0, 40, 100, 0.12);
+  }
+
+   .header-brand-img {
+filter:invert(0.40) !important;
+color:red;
+margin-bottom: 15px;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+50,e1e1e1+51,f6f6f6+100;White+Gloss+%231 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#63b6db+0,88c0d8+47,309dcf+100 */
+background: #63b6db; /* Old browsers */
+background: -moz-linear-gradient(top,  #63b6db 0%, #88c0d8 47%, #309dcf 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #63b6db 0%,#88c0d8 47%,#309dcf 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #63b6db 0%,#88c0d8 47%,#309dcf 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#63b6db', endColorstr='#309dcf',GradientType=0 ); /* IE6-9 */
+
+
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fff; 
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}

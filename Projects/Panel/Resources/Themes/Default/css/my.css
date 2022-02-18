@@ -1,0 +1,46 @@
+.islemler a{
+border:1px solid #ccc;
+padding: 5px;
+border-radius: 5px;
+}
+.islemler a:hover{
+background: #ccc;
+color:#fff;
+}
+
+.prev { float:left;}
+.next { float:right;}
+#steps { list-style:none; width:100%; overflow:hidden; margin:0px; padding:0px;}
+#steps li {font-size:24px; float:left; padding:10px; color:#b0b1b3;}
+#steps li span {font-size:11px; display:block;margin-left: 0px;} 
+#steps li.current { color:#000;}
+#makeWizard { background-color:#b0232a; color:#fff; padding:5px 10px; text-decoration:none; font-size:18px;}
+#makeWizard:hover { background-color:#000;}
+legend{
+	
+	background: #4096ee;
+background: -moz-linear-gradient(top, #4096ee 0%, #60abf8 56%, #7abcff 100%);
+background: -webkit-linear-gradient(top, #4096ee 0%,#60abf8 56%,#7abcff 100%);
+background: linear-gradient(to bottom, #4096ee 0%,#60abf8 56%,#7abcff 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#7abcff',GradientType=0 );
+	color:#fff;
+
+}
+
+fieldset{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.formbaslik{
+	padding-left: 10px;
+}
+
+.active1{
+	cursor: pointer;
+}
+
+/*menu categories css*/
+.categoriesTitle{
+	font-size: 16px;font-weight: bolder; border-bottom: 1px solid #000;margin-bottom: 5px;
+}

@@ -1,0 +1,8 @@
+sftp-config.json
+mysql_yedek.sh
+/uploads/*
+/upload/*
+/Projects/Frontend/Config/Database.php
+/Projects/Members/Config/Database.php
+/Projects/Panel/Config/Database.php
+/DbBackups/*

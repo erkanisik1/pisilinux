@@ -1,0 +1,8 @@
+<?php 
+
+return 
+[
+	'categories' => 'دسته بندی ها',
+
+
+];

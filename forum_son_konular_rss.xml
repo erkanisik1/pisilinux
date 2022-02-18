@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<rss version="2.0">
+        <channel>
+            <title>Pisi GNU/Linux forum rss</title>
+	        <link>https://pisilinux.org</link>
+	        <description>Pisi GNU/Linux forum rss içerikleri</description>
+	        <language>turkish</language>
+	        <image>
+	            <title>Pisi GNU/Linux</title>
+	            <url>http://pisilinux.og/upload/pisilogo/pisilogo240x71.png</url>
+			    <link>http://pisilinux.og/upload/pisilogo/pisilogo240x71.png</link>
+		        <width>240</width>
+		        <height>71</height>
+		    </image><item>
+				   <title>Compile linux kernel on Pisi Linux</title>
+				   <link>http://pisilinux.og/forum/subject/2423-Compile linux kernel on Pisi Linux</link>
+				   <description>Hi, i want to ask how to compile linux kernel...</description>
+				   <pubDate>2021-07-05 09:03:14</pubDate>
+				</item><item>
+				   <title>Tek tıklama ile Pencereyi simge durumuna küçültme</title>
+				   <link>http://pisilinux.og/forum/subject/2418-Tek tıklama ile Pencereyi simge durumuna küçültme</link>
+				   <description>5 Temmuz 2021 tarihinde güncellendi.    Bir dosya veya programı açtığımızda...</description>
+				   <pubDate>2021-06-28 23:20:35</pubDate>
+				</item><item>
+				   <title>Pisi Linux Installation using Virtualbox</title>
+				   <link>http://pisilinux.og/forum/subject/2417-Pisi Linux Installation using Virtualbox</link>
+				   <description>Hi, i want to ask something, why is it after...</description>
+				   <pubDate>2021-06-28 08:18:40</pubDate>
+				</item><item>
+				   <title>Pisi pisi</title>
+				   <link>http://pisilinux.og/forum/subject/2412-Pisi pisi</link>
+				   <description>Kendi çekimlerimdir. Telif hakkı talep etmiyorum.     Özellikle ilk resimi yakınlaştırıp...</description>
+				   <pubDate>2021-06-26 15:07:23</pubDate>
+				</item><item>
+				   <title>Saat Tarih otomatik oluşturma</title>
+				   <link>http://pisilinux.og/forum/subject/2405-Saat Tarih otomatik oluşturma</link>
+				   <description>Merhaba arkadaşlar bilgisayar açılırken saat tarihin internetten otomatik olarak güncelleme...</description>
+				   <pubDate>2021-06-25 15:24:12</pubDate>
+				</item><item>
+				   <title>2.2 kurulum efi bölümü</title>
+				   <link>http://pisilinux.og/forum/subject/2404-2.2 kurulum efi bölümü</link>
+				   <description>merhabalar, 2.2 yi windows un yanına kurmak istiyorum win c...</description>
+				   <pubDate>2021-06-23 13:03:56</pubDate>
+				</item><item>
+				   <title>Pisi 2.2</title>
+				   <link>http://pisilinux.og/forum/subject/2400-Pisi 2.2</link>
+				   <description>Evet arkadaşlar biraz önce Pisi Linux 2.2 beta sürümünü bilgisayara...</description>
+				   <pubDate>2021-06-21 22:37:16</pubDate>
+				</item><item>
+				   <title>ÖDEVMATİK</title>
+				   <link>http://pisilinux.og/forum/subject/2397-ÖDEVMATİK</link>
+				   <description>ÖDEVMATİK  Fikir olarak bana ait olmayan ancak bu programın pisiye...</description>
+				   <pubDate>2021-06-20 00:12:27</pubDate>
+				</item><item>
+				   <title>Bug Report</title>
+				   <link>http://pisilinux.og/forum/subject/2392-Bug Report</link>
+				   <description>Please file a bug report to .  cannot find parted...</description>
+				   <pubDate>2021-06-19 15:36:54</pubDate>
+				</item><item>
+				   <title>pisilinux 2.2 ses sorunu</title>
+				   <link>http://pisilinux.og/forum/subject/2387-pisilinux 2.2 ses sorunu</link>
+				   <description>selam    bilgisayarıma pisilinux 2.2 kurdum fakat ses kartını tanımıyor, yardımcı...</description>
+				   <pubDate>2021-06-18 03:03:08</pubDate>
+				</item><item>
+				   <title>Pisilinux 2.2 Flameshot</title>
+				   <link>http://pisilinux.og/forum/subject/2381-Pisilinux 2.2 Flameshot</link>
+				   <description>Merhabalar linuxda daha yeniyim. Snapd üzerinden flameshot indirmek istedim fakat...</description>
+				   <pubDate>2021-06-16 15:06:45</pubDate>
+				</item><item>
+				   <title>Pisi 2.2 Kurulum Sorunu</title>
+				   <link>http://pisilinux.og/forum/subject/2380-Pisi 2.2 Kurulum Sorunu</link>
+				   <description>Merhaba ben Pisi&#39;yi USB&#39;den kurmak için boot edecektim ancak şu...</description>
+				   <pubDate>2021-06-15 16:49:23</pubDate>
+				</item><item>
+				   <title>Github dan paket derleme</title>
+				   <link>http://pisilinux.og/forum/subject/2375-Github dan paket derleme</link>
+				   <description>Merhaba arkadaşlar   Arkadaşlar ben githubdan bazı ihtiyacım olan son yazılımları...</description>
+				   <pubDate>2021-06-12 17:01:55</pubDate>
+				</item><item>
+				   <title>Pisi 2.2</title>
+				   <link>http://pisilinux.og/forum/subject/2374-Pisi 2.2</link>
+				   <description>Merhaba Arkadaşlar  Saygıdeğer Pisi Linux geliştirici arkadaşlar acaba bizler yükseltme...</description>
+				   <pubDate>2021-06-12 16:55:22</pubDate>
+				</item><item>
+				   <title>Wifi ye otomatik bağlanma ve autologin</title>
+				   <link>http://pisilinux.og/forum/subject/2371-Wifi ye otomatik bağlanma ve autologin</link>
+				   <description>Merhaba pisi 2.2 kullanıyorum.Auto login ayarını bulamadım kurulumda secmeme ragmen...</description>
+				   <pubDate>2021-06-05 14:03:21</pubDate>
+				</item>					
+	</channel>
+	</rss>
